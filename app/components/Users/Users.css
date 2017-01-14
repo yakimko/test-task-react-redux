@@ -1,0 +1,7 @@
+.root {
+
+}
+
+.removeButton, .removeButton:hover, .removeButton:active, .removeButton:focus {
+    color: #ff0000;
+}

@@ -1,0 +1,30 @@
+.Th {
+    border-bottom-width: 1px;
+}
+
+.asc,
+.desc,
+.sort {
+    display: inline-block;
+    width: 8px;
+    height: 16px;
+
+    margin-right: 5px;
+
+    background-size: 8px;
+    background-repeat: no-repeat;
+
+    vertical-align: middle;
+}
+
+.asc {
+    background-image: url('./img/asc.svg');
+}
+
+.desc {
+    background-image: url('./img/desc.svg')
+}
+
+.sort {
+    background-image: url('./img/sort.svg')
+}
